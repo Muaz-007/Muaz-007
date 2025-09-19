@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Muaz Ali  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Muaz+Ali;Frontend+Developer;React+%7C+Tailwind+%7C+JavaScript" alt="Typing SVG" />
+  </a>
+</p>
+
 
 💻 A passionate **Frontend Developer**  
 ✨ Skilled in **React, Tailwind CSS, and modern JavaScript**  
