@@ -28,8 +28,9 @@
 <p align="center">
   <!-- Row 2 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" />
 </p>
+
 
 <p align="center">
   <!-- Row 3 -->
