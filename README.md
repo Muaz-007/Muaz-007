@@ -41,7 +41,6 @@
 
 ## 📫 Connect with Me  
 - GitHub: [Muaz-007](https://github.com/Muaz-007)  
-- LinkedIn: *(add your link if you have one)*  
 - Email: [muaz.developments@gmail.com](mailto:muaz.developments@gmail.com)  
 
 
