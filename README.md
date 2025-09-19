@@ -6,13 +6,12 @@
 
 <hr>
 
-<p align="center">
+<div style="text-align: center;">
   <h2 style="font-size: 28px; margin: 0;">💻 A passionate <b>Frontend Developer</b></h2>
-  <br>
-  ✨ Skilled in <b>React, Tailwind CSS, and modern JavaScript</b>
-  <br><br>
-  🚀 Currently learning <b>advanced frontend concepts & TypeScript</b>
-</p>
+  <p>✨ Skilled in <b>React, Tailwind CSS, and modern JavaScript</b></p>
+  <p>🚀 Currently learning <b>advanced frontend concepts & TypeScript</b></p>
+</div>
+
 
 
 
