@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Muaz Ali  
 
-<!--
-**Muaz-007/Muaz-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A passionate **Frontend Developer**  
+✨ Skilled in **React, Tailwind CSS, and modern JavaScript**  
+🚀 Currently learning **advanced frontend concepts & TypeScript**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages:** JavaScript (ES6+), HTML5, CSS3  
+- **Frontend:** React.js, Tailwind CSS  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Featured Projects  
+🔹 [Todo App](#) – Task management with React + Tailwind  
+🔹 [Clock App](#) – Digital clock with hooks  
+🔹 *(More projects coming soon...)*  
+
+---
+
+## 📚 Currently Learning  
+- TypeScript for React  
+- Frontend performance optimization  
+- Animations with Framer Motion  
+
+---
+
+## 📫 Connect with Me  
+- GitHub: [Muaz-007](https://github.com/Muaz-007)  
+- LinkedIn: *(add your link if you have one)*  
+- Email: *(optional – only if you’re comfortable sharing)*  
+
+---
+
+⭐️ *I love building interactive UIs, exploring new tech, and sharing my coding journey here on GitHub!*  
