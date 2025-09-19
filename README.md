@@ -6,11 +6,7 @@
 
 <hr>
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <h2 style="font-size: 28px; margin: 0;">💻 A passionate <b>Frontend Developer</b></h2>
-  <p>✨ Skilled in <b>React, Tailwind CSS, and modern JavaScript</b></p>
-  <p>🚀 Currently learning <b>advanced frontend concepts & TypeScript</b></p>
-</div>
+<p align="center"> 💻 A passionate <b>Frontend Developer</b> <br><br> ✨ Skilled in <b>React, Tailwind CSS, and modern JavaScript</b> <br><br> 🚀 Currently learning <b>advanced frontend concepts & TypeScript</b> </p>
 
 
 
