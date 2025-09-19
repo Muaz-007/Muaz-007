@@ -7,7 +7,7 @@
 <hr>
 
 <p align="center">
-  💻 A passionate <b>Frontend Developer</b> <br><br>
+  <h3>💻 A passionate <b>Frontend Developer</b><h3/> <br><br>
   ✨ Skilled in <b>React, Tailwind CSS, and modern JavaScript</b> <br><br>
   🚀 Currently learning <b>advanced frontend concepts & TypeScript</b>
 </p>
