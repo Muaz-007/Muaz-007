@@ -14,9 +14,9 @@
 
 
 ---
-## 🛠️ Languages • Frameworks • Tools  
-
-<hr>
+<p align="center">
+  <b>🛠️ Languages • Frameworks • Tools</b>
+</p>
 
 <p align="center">
   <!-- Row 1 -->
