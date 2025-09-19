@@ -4,9 +4,11 @@
   </a>
 </p>
 
-💻 A passionate **Frontend Developer**  
-✨ Skilled in **React, Tailwind CSS, and modern JavaScript**  
-🚀 Currently learning **advanced frontend concepts & TypeScript**  
+<p align="center">
+  💻 A passionate <b>Frontend Developer</b> <br><br>
+  ✨ Skilled in <b>React, Tailwind CSS, and modern JavaScript</b> <br><br>
+  🚀 Currently learning <b>advanced frontend concepts & TypeScript</b>
+</p>
 
 ---
 ## 🛠️ Tech Stack  
