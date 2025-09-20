@@ -4,8 +4,9 @@
   </a>
 </p>
 
+<h2 align="center">💻 A passionate <b>Frontend Developer</b></h2>
+
 <p align="center">
-  <span style="font-size: 24px;">💻 <h3>A passionate Frontend Developer</h3></span> <br><br> 
   ✨ Skilled in <b>React, Tailwind CSS, and modern JavaScript</b> <br><br> 
   🚀 Currently learning <b>advanced frontend concepts & TypeScript</b> 
 </p>
