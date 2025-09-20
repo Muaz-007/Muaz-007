@@ -4,13 +4,10 @@
   </a>
 </p>
 
-<hr>
-
-<h1 align="center">💻 A passionate <b>Frontend Developer</b></h1>
-
 <p align="center">
-  ✨ Skilled in <b>React, Tailwind CSS, and modern JavaScript</b> <br><br>
-  🚀 Currently learning <b>advanced frontend concepts & TypeScript</b>
+  <span style="font-size: 24px;">💻 <b>A passionate Frontend Developer</b></span> <br><br> 
+  ✨ Skilled in <b>React, Tailwind CSS, and modern JavaScript</b> <br><br> 
+  🚀 Currently learning <b>advanced frontend concepts & TypeScript</b> 
 </p>
 
 ---
