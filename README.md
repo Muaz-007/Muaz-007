@@ -10,6 +10,23 @@
   ✨ Skilled in <b>React, Tailwind CSS, and modern JavaScript</b> <br><br> 
   🚀 Currently learning <b>advanced frontend concepts & TypeScript</b> 
 </p>
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:muaz.developments@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 
 ---
 
