@@ -6,22 +6,16 @@
 
 <hr>
 
-<h2 align="center">💻 A passionate <b>Frontend Developer</b></h2>
+<h1 align="center">💻 A passionate <b>Frontend Developer</b></h1>
 
 <p align="center">
   ✨ Skilled in <b>React, Tailwind CSS, and modern JavaScript</b> <br><br>
   🚀 Currently learning <b>advanced frontend concepts & TypeScript</b>
 </p>
 
-
-
-
-
-
 ---
-<p align="center">
-  <h2 align="center">🛠️ Languages • Frameworks • Tools</h2>
-</p>
+
+<h2 align="center">🛠️ Languages • Frameworks • Tools</h2>
 
 <p align="center">
   <!-- Row 1 -->
@@ -36,7 +30,6 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" />
 </p>
 
-
 <p align="center">
   <!-- Row 3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
@@ -47,25 +40,33 @@
 
 ---
 
-## 📌 Featured Projects  
-🔹 [Todo App](#) – Task management with React + Tailwind  
-🔹 [Clock App](#) – Digital clock with hooks  
-🔹 *(More projects coming soon...)*  
+<h2 align="center">📌 Featured Projects</h2>
+
+<p align="center">
+  🔹 <a href="#">Todo App</a> – Task management with React + Tailwind <br>
+  🔹 <a href="#">Clock App</a> – Digital clock with hooks <br>
+  🔹 <i>More projects coming soon...</i>
+</p>
 
 ---
 
-## 📚 Currently Learning  
-- TypeScript for React  
-- Frontend performance optimization  
-- Animations with Framer Motion  
+<h2 align="center">📚 Currently Learning</h2>
+
+<p align="center">
+  • TypeScript for React <br>
+  • Frontend performance optimization <br>
+  • Animations with Framer Motion
+</p>
 
 ---
 
-## 📫 Connect with Me  
-- GitHub: [Muaz-007](https://github.com/Muaz-007)  
-- Email: [muaz.developments@gmail.com](mailto:muaz.developments@gmail.com)  
+<h2 align="center">📫 Connect with Me</h2>
 
+<p align="center">
+  <a href="https://github.com/Muaz-007">🌐 GitHub</a> | 
+  <a href="mailto:muaz.developments@gmail.com">📧 Email</a>
+</p>
 
 ---
 
-⭐️ *I love building interactive UIs, exploring new tech, and sharing my coding journey here on GitHub!*  
+<p align="center">⭐️ I love building interactive UIs, exploring new tech, and sharing my coding journey here on GitHub!</p>
