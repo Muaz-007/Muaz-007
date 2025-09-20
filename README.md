@@ -43,11 +43,11 @@
 <h2 align="center">📌 Featured Projects</h2>
 
 <div align="center">
-
-  🔹 <a href="#">Todo App</a> – Task management with React + Tailwind <br>
-  🔹 <a href="#">Clock App</a> – Digital clock with hooks <br>
-  🔹 <i>More projects coming soon...</i>
-
+  <p align="left">
+    🔹 <a href="#">Todo App</a> – Task management with React + Tailwind <br>
+    🔹 <a href="#">Clock App</a> – Digital clock with hooks <br>
+    🔹 <i>More projects coming soon...</i>
+  </p>
 </div>
 
 ---
@@ -55,11 +55,11 @@
 <h2 align="center">📚 Currently Learning</h2>
 
 <div align="center">
-
-  • TypeScript for React <br>
-  • Frontend performance optimization <br>
-  • Animations with Framer Motion
-
+  <p align="left">
+    • TypeScript for React <br>
+    • Frontend performance optimization <br>
+    • Animations with Framer Motion
+  </p>
 </div>
 
 ---
@@ -67,11 +67,12 @@
 <h2 align="center">📫 Connect with Me</h2>
 
 <div align="center">
-
-  🌐 <a href="https://github.com/Muaz-007">GitHub</a> <br>
-  📧 <a href="mailto:muaz.developments@gmail.com">muaz.developments@gmail.com</a>
-
+  <p align="left">
+    🌐 <a href="https://github.com/Muaz-007">GitHub</a> <br>
+    📧 <a href="mailto:muaz.developments@gmail.com">muaz.developments@gmail.com</a>
+  </p>
 </div>
+
 
 ---
 
