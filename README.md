@@ -6,7 +6,7 @@
 
 <hr>
 
-<h1 align="center">💻 A passionate <b>Frontend Developer</b></h1>
+<h2 align="center">💻 A passionate <b>Frontend Developer</b></h2>
 
 <p align="center">
   ✨ Skilled in <b>React, Tailwind CSS, and modern JavaScript</b> <br><br>
