@@ -64,18 +64,6 @@
 
 <h2 align="center">📫 Connect with Me</h2>
 
-<div align="center">
-  <p align="left">
-    🌐 <a href="https://github.com/Muaz-007">GitHub</a> <br>
-    📧 <a href="mailto:muaz.developments@gmail.com">muaz.developments@gmail.com</a>
-  </p>
-</div>
-
-
----
-
-<h2 align="center">📫 Connect with Me</h2>
-
 <p align="center">
   <a href="https://github.com/Muaz-007">🌐 GitHub</a> | 
   <a href="mailto:muaz.developments@gmail.com">📧 Email</a>
