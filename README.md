@@ -59,7 +59,7 @@
 
 <div align="center">
   <p align="left">
-    🔹 <a href="#">Todo App</a> – Task management with React + Tailwind <br>
+    🔹 <a href="https://github.com/Muaz-007/Todo-app">Todo App</a> – Task management with React + Tailwind <br>
     🔹 <a href="#">Clock App</a> – Digital clock with hooks <br>
     🔹 <i>More projects coming soon...</i>
   </p>
