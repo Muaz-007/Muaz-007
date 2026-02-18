@@ -83,7 +83,6 @@
     <br>&nbsp;&nbsp;&nbsp;&nbsp;• ⚡ Optimized performance
     <br>&nbsp;&nbsp;&nbsp;&nbsp;• 📱 Fully responsive across all devices
     <br><br>
-    🔹 <a href="https://github.com/Muaz-007/Todo-app" target="_blank"><b>Todo App</b></a> – Task management with React + Tailwind <br>
     🔹 <i>More projects coming soon...</i>
   </p>
 </div>
