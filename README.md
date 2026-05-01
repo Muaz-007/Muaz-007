@@ -37,40 +37,36 @@
 
 <h2 align="center">🛠️ Languages • Frameworks • Tools</h2>
 
-<p align="center">
-  <!-- Row 1 - Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Row 2 - Frontend Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" />
-  <img src="https://cdn.simpleicons.org/framer/0055FF" width="50" height="50" alt="Framer Motion" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" alt="Tailwind CSS" />
-</p>
+<table>
+<tr>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /><br><sub>JavaScript</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" /><br><sub>TypeScript</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /><br><sub>HTML5</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" /><br><sub>CSS3</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" /><br><sub>React</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" /><br><sub>Next.js</sub></td>
+</tr>
+<tr>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/framer/0055FF" width="50" height="50" alt="Framer Motion" /><br><sub>Framer</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" /><br><sub>Bootstrap</sub></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" height="50" alt="Tailwind CSS" /><br><sub>Tailwind</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /><br><sub>Node.js</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50" height="50" alt="NestJS" /><br><sub>NestJS</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" height="50" alt="Prisma" /><br><sub>Prisma</sub></td>
+</tr>
+<tr>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" /><br><sub>MySQL</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /><br><sub>Postgres</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /><br><sub>Git</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /><br><sub>GitHub</sub></td>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" /><br><sub>VS Code</sub></td>
+<td align="center" width="80"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="50" height="50" alt="Stripe" /><br><sub>Stripe</sub></td>
+</tr>
+</table>
 
-<p align="center">
-  <!-- Row 3 - Backend & Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="50" height="50" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" height="50" alt="Prisma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
-</p>
-
-<p align="center">
-  <!-- Row 4 - Tools & Auth -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" alt="npm" />
-  <img src="https://cdn.simpleicons.org/stripe/635BFF" width="50" height="50" alt="Stripe" />
-</p>
+</div>
 
 ---
 
