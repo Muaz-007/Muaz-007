@@ -8,7 +8,7 @@
 
 <p align="center">
   ✨ Skilled in <b>React, Next.js, TypeScript, Node.js, NestJS, Prisma, and Tailwind CSS</b> <br><br>
-  🚀 Currently learning <b>Mobile App Development with React Native</b> &mdash; building a finance teaching app
+  🚀 Currently learning <b>Mobile App Development with React Native</b> &mdash; contributing to a finance teaching app
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@
 <div align="center">
   <p align="left">
     • 📱 Mobile App Development with <b>React Native</b> <br>
-    • 💰 Building a personal-finance teaching app to put it into practice <br>
+    • 💰 Contributing to a finance teaching app to put it into practice <br>
     • ⚙️ Cross-platform UI patterns and offline-first state management <br>
     • 🐳 Docker for consistent development environments
   </p>
