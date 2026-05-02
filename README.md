@@ -13,7 +13,7 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/muaz-ali-483279380" target="_blank">
+  <a href="https://www.linkedin.com/in/muazali007" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
@@ -116,7 +116,7 @@
 
 <p align="center">
   <a href="https://github.com/Muaz-007">🌐 GitHub</a> |
-  <a href="https://www.linkedin.com/in/muaz-ali-483279380" target="_blank">💼 LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/muazali007" target="_blank">💼 LinkedIn</a> |
   <a href="mailto:muaz.developments@gmail.com">📧 Email</a> |
   <a href="https://www.instagram.com/007m_az/" target="_blank">📸 Instagram</a>
 </p>
